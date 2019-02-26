@@ -1,3 +1,5 @@
+#Code to copy one txt file into another txt file.
+
 import tkinter.filedialog
 tkinter.filedialog.askopenfilename()
 from_file = tkinter.filedialog.askopenfilename()
